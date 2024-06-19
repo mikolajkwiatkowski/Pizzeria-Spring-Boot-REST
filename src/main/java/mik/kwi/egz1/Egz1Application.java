@@ -8,6 +8,7 @@ public class Egz1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Egz1Application.class, args);
+		System.out.println("siema");
 	}
 
 }
