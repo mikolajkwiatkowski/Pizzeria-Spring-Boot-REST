@@ -20,7 +20,7 @@ public class Pizza {
     @Column(name="Name",length = 50)
     private String name;
     @Column(name="Price")
-    private double price;
+    private Double price;
     @Column(name="Ingredients",length = 300)
     private String ingredients;
 
